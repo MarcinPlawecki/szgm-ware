@@ -4,3 +4,12 @@
 *.jar
 *.war
 *.ear
+<<<<<<< HEAD
+=======
+*.project
+*.classpath
+*.settings
+*.metadata
+target/
+bin/
+>>>>>>> initial
