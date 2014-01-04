@@ -1,4 +1,4 @@
-package szgm;
+package szgm.grupa;
 
 import java.io.Serializable;
 import java.util.List;

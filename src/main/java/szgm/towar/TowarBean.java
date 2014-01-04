@@ -1,4 +1,4 @@
-package szgm;
+package szgm.towar;
 
 import java.io.Serializable;
 import java.util.Date;

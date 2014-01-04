@@ -15,7 +15,7 @@
    	</bean>
 
    	<bean id="grupaConverter" 
-         class="szgm.converters.GrupaConverter" >
+         class="szgm.grupa.GrupaConverter" >
    		<property name="grupaDao" ref="grupaDao" />
    	</bean>
    	

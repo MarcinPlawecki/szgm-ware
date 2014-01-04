@@ -1,4 +1,4 @@
-package szgm.converters;
+package szgm.jednostka;
 
 import javax.faces.component.UIComponent;
 import javax.faces.context.FacesContext;

@@ -1,4 +1,4 @@
-package szgm.converters;
+package szgm.waluta;
 
 import javax.faces.component.UIComponent;
 import javax.faces.context.FacesContext;
